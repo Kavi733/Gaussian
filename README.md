@@ -24,6 +24,7 @@ RegisterNumber: 26019140
 */
 ```
 
+```
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 n = int(input().strip())
